@@ -22,13 +22,9 @@ ChatGPT：
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | dê sugestões de nome para ebook/podcast sobre financiamento habitacional por pessoa física de imóvel de empreendimento em construção
-|{REGRAS}|
->deve ser curto
->conter uma relação com a palavra caixa 
->ter graça|
+|REGRAS| deve ser curto, conter uma relação com a palavra caixa|
 
-|{REGRAS NEGATIVAS}|
->não conter a palavra "CAIXA" |
+|REGRAS NEGATIVAS| não conter a palavra "CAIXA" |
 
 | conteúdo | Faça um texto para ebook , com foco em financiamento habitacional por pessoa física de imóvel de empreendimento em construção, listando os principais dicas, passo a passo e fatores para aumento no juros de obra {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos em contextos reais , sempre deixe um título sugestivo por tópico |
 
